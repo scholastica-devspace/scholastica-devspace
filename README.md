@@ -1,9 +1,10 @@
 # Hi, I'm Scholastica 👋
 
-## 💻 MERN Stack Developer (In Progress)
+### 🚀 MERN Stack Developer (In Progress)
 
-I am currently learning full-stack web development using the MERN stack.  
-I enjoy building responsive, modern web applications and improving my skills through real projects.
+Learning web development step by step — started with HTML & CSS and now beginning my JavaScript journey toward the MERN stack. Passionate about building responsive, user-friendly, and modern web applications while continuously improving through real-world projects.
+
+[GitHub](https://github.com/scholastica-devspace) • [LinkedIn](https://www.linkedin.com/in/kanta-scholastica-rozario-4b4773409/)
 
 ---
 
