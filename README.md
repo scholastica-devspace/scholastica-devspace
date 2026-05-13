@@ -46,6 +46,13 @@ Learning web development step by step — started with HTML & CSS and now beginn
 
 ---
 
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=scholastica-devspace&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
 
 ## ✨ Profile Views Counter
 
