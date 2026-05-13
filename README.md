@@ -27,6 +27,31 @@ I enjoy building responsive, modern web applications and improving my skills thr
 - Full-stack project building
 
 ---
+# GitHub Activity Section for README
+
+Add this section below your "📫 Connect with me" section.
+
+---
+
+## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scholastica-devspace\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scholastica-devspace\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=scholastica-devspace\&theme=tokyonight)
+
+---
+
+## 🔥 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=scholastica-devspace\&theme=tokyo-night)
+
+---
+
+## ✨ Optional Profile Views Counter
+
+![Profile Views](https://komarev.com/ghpvc/?username=scholastica-devspace\&label=Profile%20views\&color=0e75b6\&style=flat)
 
 ## 📌 Projects
 - To-Do App (coming soon)
