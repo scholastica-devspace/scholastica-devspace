@@ -4,10 +4,12 @@
 
 Learning web development step by step — started with HTML & CSS and now beginning my JavaScript journey toward the MERN stack. Passionate about building responsive, user-friendly, and modern web applications while continuously improving through real-world projects.
 
-[GitHub](https://github.com/scholastica-devspace) • [LinkedIn](https://www.linkedin.com/in/kanta-scholastica-rozario-4b4773409/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kantascholasticarozario@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanta-scholastica-rozario-4b4773409/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/scholastica-devspace)
+
 
 ---
-
 ## 🚀 Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,29 +30,16 @@ Learning web development step by step — started with HTML & CSS and now beginn
 - Full-stack project building
 
 ---
-# GitHub Activity Section for README
 
-Add this section below your "📫 Connect with me" section.
-
----
 
 ## 📈 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scholastica-devspace\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scholastica-devspace\&layout=compact\&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=scholastica-devspace\&theme=tokyonight)
 
 ---
 
-## 🔥 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=scholastica-devspace\&theme=tokyo-night)
-
----
-
-## ✨ Optional Profile Views Counter
+## ✨ Profile Views Counter
 
 ![Profile Views](https://komarev.com/ghpvc/?username=scholastica-devspace\&label=Profile%20views\&color=0e75b6\&style=flat)
 
