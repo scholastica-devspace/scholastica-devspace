@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Scholastica 👋</h1>
 
-<h3 align="center">🚀 MERN Stack Developer (In Progress)</h3>
+<h3 align="center">🚀 Full Stack Web Developer | MERN Learner</h3>
 
 <p align="center">
-Learning web development step by step — started with HTML & CSS and now beginning my JavaScript journey toward the MERN stack. Passionate about building responsive, user-friendly, and modern web applications while continuously improving through real-world projects.
+Learning web development step by step — started with HTML & CSS and now learning JavaScript. Passionate about building responsive, user-friendly, and modern web applications while continuously improving through real-world projects.
 </p>
 
 <p align="center">
@@ -59,8 +59,8 @@ Learning web development step by step — started with HTML & CSS and now beginn
 ![Profile Views](https://komarev.com/ghpvc/?username=scholastica-devspace\&label=Profile%20views\&color=0e75b6\&style=flat)
 
 ## 📌 Projects
-- To-Do App (coming soon)
-- Weather App (coming soon)
+- Guessing Game
+- To-Do List
 - MERN Full Stack Project (in progress)
 
 ---
